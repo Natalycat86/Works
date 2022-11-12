@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\bin\Debug\net6.0\Examples004.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\bin\Debug\net6.0\Examples004.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\bin\Debug\net6.0\Examples004.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\bin\Debug\net6.0\Examples004.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\bin\Debug\net6.0\Examples004.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\refint\Examples004.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\Examples004.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Examples004\obj\Debug\net6.0\ref\Examples004.dll

@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\bin\Debug\net6.0\Example1311.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\bin\Debug\net6.0\Example1311.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\bin\Debug\net6.0\Example1311.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\bin\Debug\net6.0\Example1311.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\bin\Debug\net6.0\Example1311.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\refint\Example1311.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\Example1311.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Example1311\obj\Debug\net6.0\ref\Example1311.dll

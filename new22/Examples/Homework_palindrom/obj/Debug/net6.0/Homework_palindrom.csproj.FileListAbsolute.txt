@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\bin\Debug\net6.0\Homework_palindrom.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\bin\Debug\net6.0\Homework_palindrom.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\bin\Debug\net6.0\Homework_palindrom.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\bin\Debug\net6.0\Homework_palindrom.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\bin\Debug\net6.0\Homework_palindrom.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\refint\Homework_palindrom.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\Homework_palindrom.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_palindrom\obj\Debug\net6.0\ref\Homework_palindrom.dll

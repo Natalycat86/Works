@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\bin\Debug\net6.0\homework_kub.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\bin\Debug\net6.0\homework_kub.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\bin\Debug\net6.0\homework_kub.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\bin\Debug\net6.0\homework_kub.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\bin\Debug\net6.0\homework_kub.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\refint\homework_kub.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\homework_kub.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\homework_kub\obj\Debug\net6.0\ref\homework_kub.dll

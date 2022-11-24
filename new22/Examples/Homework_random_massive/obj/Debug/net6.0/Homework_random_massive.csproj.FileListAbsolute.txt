@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\bin\Debug\net6.0\Homework_random_massive.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\bin\Debug\net6.0\Homework_random_massive.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\bin\Debug\net6.0\Homework_random_massive.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\bin\Debug\net6.0\Homework_random_massive.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\bin\Debug\net6.0\Homework_random_massive.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\refint\Homework_random_massive.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\Homework_random_massive.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_random_massive\obj\Debug\net6.0\ref\Homework_random_massive.dll

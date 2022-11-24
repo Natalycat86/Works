@@ -2,6 +2,7 @@
 int num = Convert.ToInt32(Console.ReadLine());
 int index = 0;
 int num2 = num;
+if (num2 = num2/100>=1)
 while (num2 >= 1)
 {num2 = num2/10;
 index = index + 1;}

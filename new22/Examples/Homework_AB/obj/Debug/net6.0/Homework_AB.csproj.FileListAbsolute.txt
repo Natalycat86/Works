@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\bin\Debug\net6.0\Homework_AB.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\bin\Debug\net6.0\Homework_AB.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\bin\Debug\net6.0\Homework_AB.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\bin\Debug\net6.0\Homework_AB.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\bin\Debug\net6.0\Homework_AB.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\refint\Homework_AB.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\Homework_AB.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Homework_AB\obj\Debug\net6.0\ref\Homework_AB.dll

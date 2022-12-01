@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\bin\Debug\net6.0\Mishka_Program.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\bin\Debug\net6.0\Mishka_Program.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\bin\Debug\net6.0\Mishka_Program.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\bin\Debug\net6.0\Mishka_Program.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\bin\Debug\net6.0\Mishka_Program.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\refint\Mishka_Program.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\Mishka_Program.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\Mishka_Program\obj\Debug\net6.0\ref\Mishka_Program.dll

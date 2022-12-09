@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\bin\Debug\net6.0\HomeWorkTask50.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\bin\Debug\net6.0\HomeWorkTask50.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\bin\Debug\net6.0\HomeWorkTask50.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\bin\Debug\net6.0\HomeWorkTask50.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\bin\Debug\net6.0\HomeWorkTask50.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\refint\HomeWorkTask50.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\HomeWorkTask50.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTask50\obj\Debug\net6.0\ref\HomeWorkTask50.dll

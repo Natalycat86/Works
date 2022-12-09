@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\bin\Debug\net6.0\WorkClass0312-4.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\bin\Debug\net6.0\WorkClass0312-4.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\bin\Debug\net6.0\WorkClass0312-4.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\bin\Debug\net6.0\WorkClass0312-4.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\bin\Debug\net6.0\WorkClass0312-4.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\refint\WorkClass0312-4.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\WorkClass0312-4.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClass0312-4\obj\Debug\net6.0\ref\WorkClass0312-4.dll

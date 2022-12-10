@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\bin\Debug\net6.0\WorkClassTask63.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\bin\Debug\net6.0\WorkClassTask63.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\bin\Debug\net6.0\WorkClassTask63.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\bin\Debug\net6.0\WorkClassTask63.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\bin\Debug\net6.0\WorkClassTask63.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\refint\WorkClassTask63.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\WorkClassTask63.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\WorkClassTask63\obj\Debug\net6.0\ref\WorkClassTask63.dll

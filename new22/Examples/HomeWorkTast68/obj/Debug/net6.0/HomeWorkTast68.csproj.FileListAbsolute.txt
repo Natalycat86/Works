@@ -1,0 +1,15 @@
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\bin\Debug\net6.0\HomeWorkTast68.exe
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\bin\Debug\net6.0\HomeWorkTast68.deps.json
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\bin\Debug\net6.0\HomeWorkTast68.runtimeconfig.json
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\bin\Debug\net6.0\HomeWorkTast68.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\bin\Debug\net6.0\HomeWorkTast68.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.csproj.AssemblyReference.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.AssemblyInfoInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.AssemblyInfo.cs
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.csproj.CoreCompileInputs.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\refint\HomeWorkTast68.dll
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.pdb
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\HomeWorkTast68.genruntimeconfig.cache
+C:\Users\kir_n\Desktop\works\new22\Examples\HomeWorkTast68\obj\Debug\net6.0\ref\HomeWorkTast68.dll
